@@ -1,0 +1,4117 @@
+{
+    "Cinsiyet": {
+        "name": "Cinsiyet",
+        "attributes": [
+            {
+                "name": "Erkek",
+                "subattributes": [
+                    "Erkek"
+                ]
+            },
+            {
+                "name": "Kadın",
+                "subattributes": [
+                    "Kadın"
+                ]
+            },
+            {
+                "name": "Unisex",
+                "subattributes": [
+                    "Unisex"
+                ]
+            }
+        ]
+    },
+
+    "Renk": {
+        "name": "Renk",
+        "attributes": [
+            {
+                "name": "Kırmızı",
+                "subattributes": [
+                    "Kırmızı"
+                ]
+            },
+            {
+                "name": "Beyaz",
+                "subattributes": [
+                    "Beyaz"
+                ]
+            },
+            {
+                "name": "Siyah",
+                "subattributes": [
+                    "Siyah"
+                ]
+            },
+            {
+                "name": "Bordo",
+                "subattributes": [
+                    "Bordo"
+                ]
+            },
+            {
+                "name": "Kahverengi",
+                "subattributes": [
+                    "Kahverengi"
+                ]
+            },
+            {
+                "name": "Mavi",
+                "subattributes": [
+                    "Mavi"
+                ]
+            },
+            {
+                "name": "Bej",
+                "subattributes": [
+                    "Bej"
+                ]
+            },
+            {
+                "name": "Lacivert",
+                "subattributes": [
+                    "Lacivert"
+                ]
+            },
+            {
+                "name": "Haki",
+                "subattributes": [
+                    "Haki"
+                ]
+            },
+            {
+                "name": "Gri",
+                "subattributes": [
+                    "Gri"
+                ]
+            },
+            {
+                "name": "Ekru",
+                "subattributes": [
+                    "Ekru"
+                ]
+            },
+            {
+                "name": "Pembe",
+                "subattributes": [
+                    "Pembe"
+                ]
+            },
+            {
+                "name": "Turuncu",
+                "subattributes": [
+                    "Turuncu"
+                ]
+            },
+            {
+                "name": "Yeşil",
+                "subattributes": [
+                    "Yeşil"
+                ]
+            },
+            {
+                "name": "Çok Renkli",
+                "subattributes": [
+                    "Çok Renkli"
+                ]
+            },
+            {
+                "name": "Mor",
+                "subattributes": [
+                    "Mor"
+                ]
+            },
+            {
+                "name": "Metalik",
+                "subattributes": [
+                    "Metalik"
+                ]
+            },
+            {
+                "name": "Sarı",
+                "subattributes": [
+                    "Sarı"
+                ]
+            },
+            {
+                "name": "Turkuaz",
+                "subattributes": [
+                    "Turkuaz"
+                ]
+            },
+            {
+                "name": "Altın",
+                "subattributes": [
+                    "Altın"
+                ]
+            },
+            {
+                "name": "Krem",
+                "subattributes": [
+                    "Krem"
+                ]
+            },
+            {
+                "name": "Gümüş",
+                "subattributes": [
+                    "Gümüş"
+                ]
+            }
+        ]
+    },
+
+    "Kol Tipi+Kol Boyu": {
+        "name": "Kol Tipi+Kol Boyu",
+        "attributes": [
+            {
+                "name": "Kısa Kol",
+                "subattributes": [
+                    "Kısa Kol",
+                    "Kısa"
+                ]
+            },
+            {
+                "name": "Standart Kol",
+                "subattributes": [
+                    "Standart Kol",
+                    "Regular Kol"
+                ]
+            },
+            {
+                "name": "Uzun Kol",
+                "subattributes": [
+                    "Uzun Kol",
+                    "Uzun"
+                ]
+            },
+            {
+                "name": "Askılı",
+                "subattributes": [
+                    "Askılı",
+                    "İnce Askılı",
+                    "Kalın Askılı"
+                ]
+            },
+            {
+                "name": "Kolsuz",
+                "subattributes": [
+                    "Kolsuz",
+                    "Sıfır Kol",
+                    "Sıfır"
+                ]
+            },
+            {
+                "name": "Yarasa Kol",
+                "subattributes": [
+                    "Geniş / Yarasa",
+                    "Yarasa Kol",
+                    "Geniş Kol"
+                ]
+            },
+            {
+                "name": "Omzu Açık",
+                "subattributes": [
+                    "Omzu Açık"
+                ]
+            },
+            {
+                "name": "Truvakar Kol",
+                "subattributes": [
+                    "Truvakar Kol"
+                ]
+            },
+            {
+                "name": "3/4 kol",
+                "subattributes": [
+                    "3/4 kol"
+                ]
+            },
+            {
+                "name": "İspanyol Kol",
+                "subattributes": [
+                    "İspanyol",
+                    "İspanyol Kol"
+                ]
+            },
+            {
+                "name": "Tek Kol",
+                "subattributes": [
+                    "Tek Kol"
+                ]
+            },
+            {
+                "name": "Yarım Kol",
+                "subattributes": [
+                    "Yarım Kol"
+                ]
+            },
+            {
+                "name": "Balon Kol",
+                "subattributes": [
+                    "Balon Kol",
+                    "Balon"
+                ]
+            },
+            {
+                "name": "Volanlı",
+                "subattributes": [
+                    "Volanlı"
+                ]
+            },
+            {
+                "name": "Büzgülü/Fırfırlı Kol",
+                "subattributes": [
+                    "Büzgülü/Fırfırlı Kol"
+                ]
+            },
+            {
+                "name": "Takma Kol",
+                "subattributes": [
+                    "Takma Kol"
+                ]
+            },
+            {
+                "name": "Melek Kol",
+                "subattributes": [
+                    "Melek Kol"
+                ]
+            },
+            {
+                "name": "Ay Kol",
+                "subattributes": [
+                    "Ay Kol",
+                    "Ay"
+                ]
+            },
+            {
+                "name": "Straplez",
+                "subattributes": [
+                    "Straplez"
+                ]
+            },
+            {
+                "name": "Mendil Kol",
+                "subattributes": [
+                    "Mendil Kol"
+                ]
+            },
+            {
+                "name": "Tek Omuz",
+                "subattributes": [
+                    "Tek Omuz"
+                ]
+            },
+            {
+                "name": "Flare Kol",
+                "subattributes": [
+                    "Flare Kol"
+                ]
+            },
+            {
+                "name": "T Kol",
+                "subattributes": [
+                    "T Kol"
+                ]
+            },
+            {
+                "name": "Karpuz Kol",
+                "subattributes": [
+                    "Karpuz Kol"
+                ]
+            },
+            {
+                "name": "Reglan Kol",
+                "subattributes": [
+                    "Reglan Kol"
+                ]
+            },
+            {
+                "name": "Düşük Kol",
+                "subattributes": [
+                    "Düşük Kol"
+                ]
+            },
+            {
+                "name": "Katlamalı",
+                "subattributes": [
+                    "Katlamalı"
+                ]
+            }
+        ]
+    },
+
+    "Paça Tipi": {
+        "name": "Paça Tipi",
+        "attributes": [
+            {
+                "name": "Boru Paça",
+                "subattributes": [
+                    "Boru Paça"
+                ]
+            },
+            {
+                "name": "Dar Paça",
+                "subattributes": [
+                    "Dar Paça"
+                ]
+            },
+            {
+                "name": "Düz Paça",
+                "subattributes": [
+                    "Düz Paça",
+                    "Normal Paça"
+                ]
+            },
+            {
+                "name": "Lastikli Paça",
+                "subattributes": [
+                    "Lastikli Paça"
+                ]
+            },
+            {
+                "name": "Bol Paça",
+                "subattributes": [
+                    "Bol Paça"
+                ]
+            },
+            {
+                "name": "Fermuarlı Paça",
+                "subattributes": [
+                    "Fermuarlı Paça"
+                ]
+            },
+            {
+                "name": "Lastiksiz Paça",
+                "subattributes": [
+                    "Lastiksiz Paça"
+                ]
+            },
+            {
+                "name": "Kısa Paça",
+                "subattributes": [
+                    "Kısa Paça"
+                ]
+            },
+            {
+                "name": "Paçasız",
+                "subattributes": [
+                    "Paçasız"
+                ]
+            },
+            {
+                "name": "Geniş Paça",
+                "subattributes": [
+                    "Geniş Paça"
+                ]
+            },
+            {
+                "name": "ispanyol paça",
+                "subattributes": [
+                    "ispanyol paça"
+                ]
+            },
+            {
+                "name": "Jogger",
+                "subattributes": [
+                    "Jogger"
+                ]
+            },
+            {
+                "name": "Duble Paça",
+                "subattributes": [
+                    "Duble Paça"
+                ]
+            },
+            {
+                "name": "Regular",
+                "subattributes": [
+                    "Regular"
+                ]
+            },
+            {
+                "name": "Manşetli",
+                "subattributes": [
+                    "Manşetli"
+                ]
+            },
+            {
+                "name": "Süper Dar Paça",
+                "subattributes": [
+                    "Süper Dar Paça",
+                    "Ekstra Dar Paça"
+                ]
+            },
+            {
+                "name": "Çizme Paça",
+                "subattributes": [
+                    "Çizme Paça"
+                ]
+            },
+            {
+                "name": "Açık Paça",
+                "subattributes": [
+                    "Açık Paça"
+                ]
+            },
+            {
+                "name": "Çıt Çıt Kapama",
+                "subattributes": [
+                    "Çıt Çıt Kapama"
+                ]
+            },
+            {
+                "name": "Crop",
+                "subattributes": [
+                    "Crop"
+                ]
+            }
+        ]
+    },
+
+    "Paça Boyu": {
+        "name": "Paça Boyu",
+        "attributes": [
+            {
+                "name": "Uzun",
+                "subattributes": [
+                    "Uzun"
+                ]
+            },
+            {
+                "name": "Kısa",
+                "subattributes": [
+                    "Kısa"
+                ]
+            },
+            {
+                "name": "Bermuda",
+                "subattributes": [
+                    "Bermuda"
+                ]
+            }
+        ]
+    },
+
+    "Ürün Tipi": {
+        "name": "Ürün Tipi",
+        "attributes": [
+            {
+                "name": "Şardonlu",
+                "subattributes": [
+                    "Şardonlu"
+                ]
+            },
+            {
+                "name": "Baskılı",
+                "subattributes": [
+                    "Baskılı"
+                ]
+            },
+            {
+                "name": "Düz",
+                "subattributes": [
+                    "Düz"
+                ]
+            },
+            {
+                "name": "İpliği Boyalı",
+                "subattributes": [
+                    "İpliği Boyalı"
+                ]
+            },
+            {
+                "name": "Yırtıklı",
+                "subattributes": [
+                    "Yırtıklı"
+                ]
+            },
+            {
+                "name": "Yıpratmalı",
+                "subattributes": [
+                    "Yıpratmalı"
+                ]
+            }
+        ]
+    },
+
+    "Cep": {
+        "name": "Cep",
+        "attributes": [
+            {
+                "name": "Cepsiz",
+                "subattributes": [
+                    "Cepsiz"
+                ]
+            },
+            {
+                "name": "Çift",
+                "subattributes": [
+                    "Çift",
+                    "Çift Kapaklı"
+                ]
+            },
+            {
+                "name": "Gizli",
+                "subattributes": [
+                    "Gizli",
+                    "Gizli Cep"
+                ]
+            },
+            {
+                "name": "Chino",
+                "subattributes": [
+                    "Chino"
+                ]
+            },
+            {
+                "name": "Kargo Cepli",
+                "subattributes": [
+                    "Kargo Cepli",
+                    "Kargo Cep"
+                ]
+            },
+            {
+                "name": "Yan Cep",
+                "subattributes": [
+                    "Yan Cep",
+                    "Yandan Cepli"
+                ]
+            },
+            {
+                "name": "Kapaklı",
+                "subattributes": [
+                    "Kapaklı",
+                    "Kapaklı Cep"
+                ]
+            },
+            {
+                "name": "Fleto Cep",
+                "subattributes": [
+                    "Fleto Cep",
+                    "Fileto"
+                ]
+            },
+            {
+                "name": "Tek",
+                "subattributes": [
+                    "Tek"
+                ]
+            },
+            {
+                "name": "Kanguru Cep",
+                "subattributes": [
+                    "Kanguru Cep"
+                ]
+            },
+            {
+                "name": "4 Cep",
+                "subattributes": [
+                    "4 Cep"
+                ]
+            },
+            {
+                "name": "5 Cep",
+                "subattributes": [
+                    "5 Cep"
+                ]
+            },
+            {
+                "name": "2 Cep",
+                "subattributes": [
+                    "2 Cep"
+                ]
+            },
+            {
+                "name": "Torba Cep",
+                "subattributes": [
+                    "Torba Cep"
+                ]
+            },
+            {
+                "name": "İç Cep",
+                "subattributes": [
+                    "İç Cep"
+                ]
+            },
+            {
+                "name": "Göğüs Cebi",
+                "subattributes": [
+                    "Göğüs Cebi"
+                ]
+            },
+            {
+                "name": "Arkadan Cepli",
+                "subattributes": [
+                    "Arkadan Cepli"
+                ]
+            },
+            {
+                "name": "Cepli",
+                "subattributes": [
+                    "Cepli"
+                ]
+            }
+      
+        ]
+    },
+
+    "Bel": {
+        "name": "Bel",
+        "attributes": [
+            {
+                "name": "Yüksek Bel",
+                "subattributes": [
+                    "Yüksek Bel"
+                ]
+            },
+            {
+                "name": "Normal Bel",
+                "subattributes": [
+                    "Normal Bel",
+                    "Regular"
+                ]
+            },
+            {
+                "name": "Düşük Bel",
+                "subattributes": [
+                    "Düşük Bel"
+                ]
+            },
+            {
+                "name": "Süper Yüksek Bel",
+                "subattributes": [
+                    "Süper Yüksek Bel"
+                ]
+            },
+            {
+                "name": "Lastikli",
+                "subattributes": [
+                    "Lastikli",
+                    "Jogger Lastik Bel"
+                ]
+            },
+            {
+                "name": "Kemerli",
+                "subattributes": [
+                    "Kemerli"
+                ]
+            },
+            {
+                "name": "Extra Yüksek Bel",
+                "subattributes": [
+                    "Extra Yüksek Bel"
+                ]
+            },
+            {
+                "name": "Kuşaklı",
+                "subattributes": [
+                    "Kuşaklı"
+                ]
+            }
+        ]
+    },
+
+    "Boy": {
+        "name": "Boy",
+        "attributes": [
+            {
+                "name": "Regular",
+                "subattributes": [
+                    "Regular",
+                    "Standart"
+                ]
+            },
+            {
+                "name": "Crop",
+                "subattributes": [
+                    "Crop",
+                    "Super Crop"
+                ]
+            },
+            {
+                "name": "Maxi",
+                "subattributes": [
+                    "Büyük",
+                    "Maxi"
+                ]
+            },
+            {
+                "name": "Midi",
+                "subattributes": [
+                    "Midi"
+                ]
+            },
+            {
+                "name": "Mini",
+                "subattributes": [
+                    "Mini"
+                ]
+            },
+            {
+                "name": "Uzun",
+                "subattributes": [
+                    "Uzun"
+                ]
+            },
+            {
+                "name": "Kısa",
+                "subattributes": [
+                    "Kısa"
+                ]
+            },
+            {
+                "name": "Diz Boyu",
+                "subattributes": [
+                    "Diz Boyu"
+                ]
+            },
+            {
+                "name": "Bilek Boy",
+                "subattributes": [
+                    "Bilek Boy"
+                ]
+            },
+            {
+                "name": "Extra Uzun",
+                "subattributes": [
+                    "Extra Uzun"
+                ]
+            },
+            {
+                "name": "Süper Mini",
+                "subattributes": [
+                    "Süper Mini"
+                ]
+            },
+            {
+                "name": "Kapri",
+                "subattributes": [
+                    "Kapri"
+                ]
+            }
+        ]
+    },
+
+    "Siluet": {
+        "name": "Siluet",
+        "attributes": [
+            {
+                "name": "Regular",
+                "subattributes": [
+                    "Regular",
+                    "Straight",
+                    "Basic",
+                    "Standart",
+                    "Normal",
+                    "Rahat Kesim"
+                ]
+            },
+            {
+                "name": "Slim",
+                "subattributes": [
+                    "Slim",
+                    "Skinny",
+                    "Tapered Skinny",
+                    "Slim Fit",
+                    "Dar / Slim",
+                    "Dar",
+                    "Slim/Fitted",
+                    "Yarı Dar Kesim"
+                ]
+            },
+            {
+                "name": "Super Skinny",
+                "subattributes": [
+                    "Super Skinny",
+                    "Super Slim Fit",
+                    "Super Slim"
+                ]
+            },
+            {
+                "name": "Oversize",
+                "subattributes": [
+                    "Oversize",
+                    "Loose",
+                    "Geniş",
+                    "Bol",
+                    "Geniş Kesim",
+                    "Baggy Fit"
+                ]
+            },
+            {
+                "name": "Crop",
+                "subattributes": [
+                    "Crop",
+                    "Super Crop",
+                    "Crop Fit"
+                ]
+            },
+            {
+                "name": "Relaxed",
+                "subattributes": [
+                    "Relaxed",
+                    "Relax Fit",
+                    "Rahat Kesim"
+                ]
+            },
+            {
+                "name": "Loose Fit",
+                "subattributes": [
+                    "Loose Fit",
+                    "Loose"
+                ]
+            },
+            {
+                "name": "Mom",
+                "subattributes": [
+                    "Mom",
+                    "Mom Jeans"
+                ]
+            },
+            {
+                "name": "Wide Leg",
+                "subattributes": [
+                    "Wide Leg",
+                    "90's Wide Leg"
+                ]
+            },
+            {
+                "name": "Yırtmaçlı",
+                "subattributes": [
+                    "Yırtmaçlı",
+                    "Yırtmaçlı Etek"
+                ]
+            },
+            {
+                "name": "Pileli Etek",
+                "subattributes": [
+                    "Pileli Etek",
+                    "Pileli"
+                ]
+            },
+            {
+                "name": "Fitted",
+                "subattributes": [
+                    "Fitted"
+                ]
+            },
+            {
+                "name": "Büyük Beden",
+                "subattributes": [
+                    "Büyük Beden"
+                ]
+            },
+            {
+                "name": "Biker",
+                "subattributes": [
+                    "Biker"
+                ]
+            },
+            {
+                "name": "Boyfriend",
+                "subattributes": [
+                    "Boyfriend"
+                ]
+            },
+            {
+                "name": "Blazer",
+                "subattributes": [
+                    "Blazer"
+                ]
+            },
+            {
+                "name": "Klasik",
+                "subattributes": [
+                    "Klasik"
+                ]
+            },
+            {
+                "name": "Comfort",
+                "subattributes": [
+                    "Comfort"
+                ]
+            },
+            {
+                "name": "Jogger",
+                "subattributes": [
+                    "Jogger",
+                    "Regular Jogger"
+                ]
+            },
+            {
+                "name": "Kick Flare",
+                "subattributes": [
+                    "Kick Flare",
+                    "Flare"
+                ]
+            },
+            {
+                "name": "A-line",
+                "subattributes": [
+                    "A-line"
+                ]
+            },
+            {
+                "name": "Bele Oturan",
+                "subattributes": [
+                    "Bele Oturan"
+                ]
+            },
+            {
+                "name": "Kloş",
+                "subattributes": [
+                    "Kloş"
+                ]
+            },
+            {
+                "name": "Shift",
+                "subattributes": [
+                    "Shift"
+                ]
+            },
+            {
+                "name": "Jile",
+                "subattributes": [
+                    "Jile"
+                ]
+            },
+            {
+                "name": "Beli Lastikli",
+                "subattributes": [
+                    "Beli Lastikli"
+                ]
+            },
+            {
+                "name": "Kruvaze",
+                "subattributes": [
+                    "Kruvaze"
+                ]
+            },
+            {
+                "name": "Kalem",
+                "subattributes": [
+                    "Kalem"
+                ]
+            },
+            {
+                "name": "Çan",
+                "subattributes": [
+                    "Çan"
+                ]
+            },
+            {
+                "name": "Prenses",
+                "subattributes": [
+                    "Prenses"
+                ]
+            },
+            {
+                "name": "Havuç/Şalvar",
+                "subattributes": [
+                    "Havuç/Şalvar"
+                ]
+            },
+            {
+                "name": "Straplez",
+                "subattributes": [
+                    "Straplez"
+                ]
+            },
+            {
+                "name": "Balon",
+                "subattributes": [
+                    "Balon"
+                ]
+            },
+            {
+                "name": "Long Fit",
+                "subattributes": [
+                    "Long Fit"
+                ]
+            },
+            {
+                "name": "Bomber",
+                "subattributes": [
+                    "Bomber"
+                ]
+            },
+            {
+                "name": "A-Form Fit",
+                "subattributes": [
+                    "A-Form Fit"
+                ]
+            },
+            {
+                "name": "Boxy",
+                "subattributes": [
+                    "Boxy"
+                ]
+            },
+            {
+                "name": "Palazzo",
+                "subattributes": [
+                    "Palazzo"
+                ]
+            },
+            {
+                "name": "Culotte",
+                "subattributes": [
+                    "Culotte"
+                ]
+            },
+            {
+                "name": "Overshirt",
+                "subattributes": [
+                    "Overshirt"
+                ]
+            },
+            {
+                "name": "Asimetrik",
+                "subattributes": [
+                    "Asimetrik"
+                ]
+            },
+            {
+                "name": "Bootcut",
+                "subattributes": [
+                    "Bootcut"
+                ]
+            },
+            {
+                "name": "Kargo",
+                "subattributes": [
+                    "Kargo"
+                ]
+            },
+            {
+                "name": "Balık",
+                "subattributes": [
+                    "Balık"
+                ]
+            },
+            {
+                "name": "Yüksek Bel",
+                "subattributes": [
+                    "Yüksek Bel"
+                ]
+            },
+            {
+                "name": "Bodycone",
+                "subattributes": [
+                    "Bodycone",
+                    "Bodycon"
+                ]
+            },
+            {
+                "name": "Cigarette",
+                "subattributes": [
+                    "Cigarette"
+                ]
+            },
+            {
+                "name": "Skater",
+                "subattributes": [
+                    "Skater"
+                ]
+            },
+            {
+                "name": "Trucker",
+                "subattributes": [
+                    "Trucker"
+                ]
+            },
+            {
+                "name": "Şişme",
+                "subattributes": [
+                    "Şişme",
+                    "Şişme yelek"
+                ]
+            },
+            {
+                "name": "Kaşe",
+                "subattributes": [
+                    "Kaşe"
+                ]
+            },
+            {
+                "name": "Bolero",
+                "subattributes": [
+                    "Bolero"
+                ]
+            },
+            {
+                "name": "Anvelop",
+                "subattributes": [
+                    "Anvelop"
+                ]
+            },
+            {
+                "name": "Dad",
+                "subattributes": [
+                    "Dad"
+                ]
+            },
+            {
+                "name": "Stretch",
+                "subattributes": [
+                    "Stretch"
+                ]
+            },
+            {
+                "name": "Smock",
+                "subattributes": [
+                    "Smock"
+                ]
+            },
+            {
+                "name": "Fit & Flare",
+                "subattributes": [
+                    "Fit & Flare"
+                ]
+            },
+            {
+                "name": "Brazilian",
+                "subattributes": [
+                    "Brazilian"
+                ]
+            },
+            {
+                "name": "Shackets",
+                "subattributes": [
+                    "Shackets"
+                ]
+            },
+            {
+                "name": "String",
+                "subattributes": [
+                    "String"
+                ]
+            },
+            {
+                "name": "Eteği katlı",
+                "subattributes": [
+                    "Eteği katlı"
+                ]
+            },
+            {
+                "name": "Robadan kesikli",
+                "subattributes": [
+                    "Robadan kesikli"
+                ]
+            },
+            {
+                "name": "Tunik",
+                "subattributes": [
+                    "Tunik"
+                ]
+            },
+            {
+                "name": "Parka",
+                "subattributes": [
+                    "Parka"
+                ]
+            },
+            {
+                "name": "Balconette",
+                "subattributes": [
+                    "Balconette"
+                ]
+            },
+            {
+                "name": "City Short",
+                "subattributes": [
+                    "City Short"
+                ]
+            },
+            {
+                "name": "Kanguru",
+                "subattributes": [
+                    "Kanguru"
+                ]
+            }
+
+        ]
+    },
+
+    "Yaka Tipi": {
+        "name": "Yaka Tipi",
+        "attributes": [
+            {
+                "name": "Sıfır Yaka",
+                "subattributes": [
+                    "Sıfır Yaka"
+                ]
+            },
+            {
+                "name": "Kapüşonlu",
+                "subattributes": [
+                    "Kapüşonlu"
+                ]
+            },
+            {
+                "name": "O Yaka",
+                "subattributes": [
+                    "O Yaka"
+                ]
+            },
+            {
+                "name": "Bisiklet Yaka",
+                "subattributes": [
+                    "Bisiklet Yaka"
+                ]
+            },
+            {
+                "name": "V Yaka",
+                "subattributes": [
+                    "V Yaka"
+                ]
+            },
+            {
+                "name": "Boyundan Bağlamalı",
+                "subattributes": [
+                    "Boyundan Bağlamalı"
+                ]
+            },
+            {
+                "name": "Yuvarlak Yaka",
+                "subattributes": [
+                    "Yuvarlak Yaka"
+                ]
+            },
+            {
+                "name": "Kolej Yaka",
+                "subattributes": [
+                    "Kolej Yaka"
+                ]
+            },
+            {
+                "name": "Fermuarlı",
+                "subattributes": [
+                    "Fermuarlı"
+                ]
+            },
+            {
+                "name": "Gömlek Yaka",
+                "subattributes": [
+                    "Gömlek Yaka"
+                ]
+            },
+            {
+                "name": "Kruvaze Yaka",
+                "subattributes": [
+                    "Kruvaze Yaka",
+                    "Kruvaze"
+                ]
+            },
+            {
+                "name": "Klasik",
+                "subattributes": [
+                    "Klasik"
+                ]
+            },
+            {
+                "name": "Kare Yaka",
+                "subattributes": [
+                    "Kare Yaka"
+                ]
+            },
+            {
+                "name": "Bomber Yaka",
+                "subattributes": [
+                    "Bomber Yaka"
+                ]
+            },
+            {
+                "name": "Balıkçı Yaka",
+                "subattributes": [
+                    "Balıkçı Yaka"
+                ]
+            },
+            {
+                "name": "Bebe Yaka",
+                "subattributes": [
+                    "Bebe Yaka"
+                ]
+            },
+            {
+                "name": "Polo Yaka",
+                "subattributes": [
+                    "Polo Yaka"
+                ]
+            },
+            {
+                "name": "U Yaka",
+                "subattributes": [
+                    "U Yaka"
+                ]
+            },
+            {
+                "name": "Kayık Yaka",
+                "subattributes": [
+                    "Kayık Yaka"
+                ]
+            },
+            {
+                "name": "Yarım Balıkçı Yaka",
+                "subattributes": [
+                    "Yarım Balıkçı Yaka"
+                ]
+            },
+            {
+                "name": "Dik Yaka",
+                "subattributes": [
+                    "Dik Yaka"
+                ]
+            },
+            {
+                "name": "Ceket Yaka",
+                "subattributes": [
+                    "Ceket Yaka"
+                ]
+            },
+            {
+                "name": "Simit Yaka",
+                "subattributes": [
+                    "Simit Yaka"
+                ]
+            },
+            {
+                "name": "Hakim Yaka",
+                "subattributes": [
+                    "Hakim Yaka"
+                ]
+            },
+            {
+                "name": "Düğmeli",
+                "subattributes": [
+                    "Düğmeli"
+                ]
+            },
+            {
+                "name": "Degaje Yaka",
+                "subattributes": [
+                    "Degaje Yaka"
+                ]
+            },
+            {
+                "name": "Erkek Yaka",
+                "subattributes": [
+                    "Erkek Yaka"
+                ]
+            },
+            {
+                "name": "Yakasız",
+                "subattributes": [
+                    "Yakasız"
+                ]
+            },
+            {
+                "name": "Yarım İtalyan Yaka",
+                "subattributes": [
+                    "Yarım İtalyan Yaka"
+                ]
+            },
+            {
+                "name": "Halter Yaka",
+                "subattributes": [
+                    "Halter Yaka"
+                ]
+            },
+            {
+                "name": "Geniş Yaka",
+                "subattributes": [
+                    "Geniş Yaka"
+                ]
+            },
+            {
+                "name": "İtalyan Yaka",
+                "subattributes": [
+                    "İtalyan Yaka"
+                ]
+            },
+            {
+                "name": "Gizli Düğmeli Yaka",
+                "subattributes": [
+                    "Gizli Düğmeli Yaka"
+                ]
+            },
+            {
+                "name": "Düğmeli Yaka",
+                "subattributes": [
+                    "Düğmeli Yaka"
+                ]
+            },
+            {
+                "name": "Apaj Yaka",
+                "subattributes": [
+                    "Apaj Yaka"
+                ]
+            },
+            {
+                "name": "Ata Yaka",
+                "subattributes": [
+                    "Ata Yaka"
+                ]
+            },
+            {
+                "name": "Smokin",
+                "subattributes": [
+                    "Smokin"
+                ]
+            },
+            {
+                "name": "Havuz Yaka",
+                "subattributes": [
+                    "Havuz Yaka"
+                ]
+            },
+            {
+                "name": "Şal Yaka",
+                "subattributes": [
+                    "Şal Yaka"
+                ]
+            },
+            {
+                "name": "Asimetrik Yaka",
+                "subattributes": [
+                    "Asimetrik Yaka"
+                ]
+            },
+            {
+                "name": "Choker Yaka",
+                "subattributes": [
+                    "Choker Yaka"
+                ]
+            },
+            {
+                "name": "Carmen Yaka",
+                "subattributes": [
+                    "Carmen Yaka"
+                ]
+            },
+            {
+                "name": "Devrik Yaka",
+                "subattributes": [
+                    "Devrik Yaka"
+                ]
+            },
+            {
+                "name": "Sivri Yaka",
+                "subattributes": [
+                    "Sivri Yaka"
+                ]
+            },
+            {
+                "name": "Dantel Yaka",
+                "subattributes": [
+                    "Dantel Yaka"
+                ]
+            },
+            {
+                "name": "Alttan Biritli Yaka",
+                "subattributes": [
+                    "Alttan Biritli Yaka"
+                ]
+            },
+            {
+                "name": "Pis Yaka",
+                "subattributes": [
+                    "Pis Yaka"
+                ]
+            },
+            {
+                "name": "Balerin Yaka",
+                "subattributes": [
+                    "Balerin Yaka"
+                ]
+            },
+            {
+                "name": "Çentik Yaka",
+                "subattributes": [
+                    "Çentik Yaka"
+                ]
+            },
+            {
+                "name": "Fular Yaka",
+                "subattributes": [
+                    "Fular Yaka"
+                ]
+            },
+            {
+                "name": "Kalp Yaka",
+                "subattributes": [
+                    "Kalp Yaka"
+                ]
+            },
+            {
+                "name": "Mono Yaka",
+                "subattributes": [
+                    "Mono Yaka"
+                ]
+            },
+            {
+                "name": "Beyzbol Yaka",
+                "subattributes": [
+                    "Beyzbol Yaka"
+                ]
+            },
+            {
+                "name": "Boğazlı",
+                "subattributes": [
+                    "Boğazlı"
+                ]
+            },
+            {
+                "name": "Kırlangıç Yaka",
+                "subattributes": [
+                    "Kırlangıç Yaka"
+                ]
+            },
+            {
+                "name": "Straplez",
+                "subattributes": [
+                    "Straplez"
+                ]
+            },
+            {
+                "name": "Madonna Yaka",
+                "subattributes": [
+                    "Madonna Yaka"
+                ]
+            },
+            {
+                "name": "Apaş Yaka",
+                "subattributes": [
+                    "Apaş Yaka"
+                ]
+            },
+            {
+                "name": "Askılı Yaka",
+                "subattributes": [
+                    "Askılı Yaka"
+                ]
+            },
+            {
+                "name": "Jakarlı",
+                "subattributes": [
+                    "Jakarlı"
+                ]
+            },
+            {
+                "name": "Oyuk Yaka",
+                "subattributes": [
+                    "Oyuk Yaka"
+                ]
+            },
+            {
+                "name": "Kapamasız",
+                "subattributes": [
+                    "Kapamasız"
+                ]
+            },
+            {
+                "name": "Resort Yaka",
+                "subattributes": [
+                    "Resort Yaka"
+                ]
+            }
+        ]
+    },
+    
+    "Kemer/Kuşak Durumu": {
+        "name": "Cinsiyet",
+        "attributes": [
+            {
+                "name": "Kuşaklı",
+                "subattributes": [
+                    "Kuşaklı"
+                ]
+            },
+            {
+                "name": "Kemerli",
+                "subattributes": [
+                    "Kemerli"
+                ]
+            },
+            {
+                "name": "Kemersiz",
+                "subattributes": [
+                    "Kemersiz"
+                ]
+            },
+            {
+                "name": "Bağcıklı",
+                "subattributes": [
+                    "Bağcıklı"
+                ]
+            },
+            {
+                "name": "Yok",
+                "subattributes": [
+                    "Yok"
+                ]
+            }
+        ]
+    },
+
+    "Stil": {
+        "name": "Stil",
+        "attributes": [
+            {
+                "name": "Günlük",
+                "subattributes": [
+                    "Günlük",
+                    "Casual",
+                    "Daily"
+                ]
+            },
+            {
+                "name": "Outdoor",
+                "subattributes": [
+                    "Outdoor"
+                ]
+            },
+            {
+                "name": "Spor",
+                "subattributes": [
+                    "Spor",
+                    "Sportswear",
+                    "Vücut",
+                    "Futbol",
+                    "Fitness / Antreman",
+                    "Çoklu Spor",
+                    "Basketbol",
+                    "Kayak",
+                    "Termal"
+                ]
+            },
+            {
+                "name": "Trend",
+                "subattributes": [
+                    "Trend"
+                ]
+            },
+            {
+                "name": "Gözlemcilik",
+                "subattributes": [
+                    "Gözlemcilik"
+                ]
+            },
+            {
+                "name": "Seyahat",
+                "subattributes": [
+                    "Seyahat"
+                ]
+            },
+            {
+                "name": "Şehir/Gezi Bisikleti",
+                "subattributes": [
+                    "Şehir/Gezi Bisikleti"
+                ]
+            },
+            {
+                "name": "Kamp",
+                "subattributes": [
+                    "Kamp"
+                ]
+            },
+            {
+                "name": "Onarım / Bakım",
+                "subattributes": [
+                    "Onarım / Bakım"
+                ]
+            },
+            {
+                "name": "Sokak Stili",
+                "subattributes": [
+                    "Sokak Stili"
+                ]
+            },
+            {
+                "name": "Klasik",
+                "subattributes": [
+                    "Klasik"
+                ]
+            },
+            {
+                "name": "Gece",
+                "subattributes": [
+                    "Gece",
+                    "Şık",
+                    "Şık / gece",
+                    "Stylish/Night"
+                ]
+            },
+            {
+                "name": "Young",
+                "subattributes": [
+                    "Young"
+                ]
+            },
+            {
+                "name": "Casual&Comfort",
+                "subattributes": [
+                    "Casual&Comfort",
+                    "Cool Comfort"
+                ]
+            },
+            {
+                "name": "Party",
+                "subattributes": [
+                    "Party"
+                ]
+            },
+            {
+                "name": "Lounge/Home",
+                "subattributes": [
+                    "Lounge/Home"
+                ]
+            },
+            {
+                "name": "Business",
+                "subattributes": [
+                    "Business",
+                    "Ofis",
+                    "Smart/Office"
+                ]
+            },
+            {
+                "name": "Prom",
+                "subattributes": [
+                    "Prom",
+                    "Prom Bridesmaid"
+                ]
+            },
+            {
+                "name": "Back to School",
+                "subattributes": [
+                    "Back to School"
+                ]
+            },
+            {
+                "name": "Beachwear",
+                "subattributes": [
+                    "Beachwear"
+                ]
+            },
+            {
+                "name": "Fashion Forward",
+                "subattributes": [
+                    "Fashion Forward"
+                ]
+            },
+            {
+                "name": "Sexy",
+                "subattributes": [
+                    "Sexy"
+                ]
+            },
+            {
+                "name": "Traditional",
+                "subattributes": [
+                    "Traditional"
+                ]
+            }
+        ]
+    },
+
+    "Koleksiyon": {
+        "name": "Koleksiyon",
+        "attributes": [
+            {
+                "name": "Unisex",
+                "subattributes": [
+                    "Unisex"
+                ]
+            },
+            {
+                "name": "Basic",
+                "subattributes": [
+                    "Basic"
+                ]
+            },
+            {
+                "name": "Design",
+                "subattributes": [
+                    "Design"
+                ]
+            },
+            {
+                "name": "Tesettür Giyim",
+                "subattributes": [
+                    "Tesettür Giyim"
+                ]
+            },
+            {
+                "name": "Young",
+                "subattributes": [
+                    "Young" 
+                ]
+            },
+            {
+                "name": "Büyük Beden",
+                "subattributes": [
+                    "Büyük Beden"
+                ]
+            },
+            {
+                "name": "Sportswear",
+                "subattributes": [
+                    "Sportswear"
+                ]
+            },
+            {
+                "name": "Menswear",
+                "subattributes": [
+                    "Menswear"
+                ]
+            },
+            {
+                "name": "Christmas",
+                "subattributes": [
+                    "Christmas"
+                ]
+            },
+            {
+                "name": "Lisanslı",
+                "subattributes": [
+                    "Lisanslı"
+                ]
+            },
+            {
+                "name": "Party",
+                "subattributes": [
+                    "Party"
+                ]
+            },
+            {
+                "name": "Eco-friendly",
+                "subattributes": [
+                    "Eco-friendly"
+                ]
+            },
+            {
+                "name": "Business",
+                "subattributes": [
+                    "Business"
+                ]
+            },
+            {
+                "name": "Homewear",
+                "subattributes": [
+                    "Homewear"
+                ]
+            },
+            {
+                "name": "Loungewear",
+                "subattributes": [
+                    "Loungewear"
+                ]
+            },
+            {
+                "name": "Glam",
+                "subattributes": [
+                    "Glam"
+                ]
+            },
+            {
+                "name": "Plaj Tekstil",
+                "subattributes": [
+                    "Plaj Tekstil"
+                ]
+            },
+            {
+                "name": "Modest",
+                "subattributes": [
+                    "Modest"
+                ]
+            },
+            {
+                "name": "Petite",
+                "subattributes": [
+                    "Petite"
+                ]
+            },
+            {
+                "name": "Tall",
+                "subattributes": [
+                    "Tall"
+                ]
+            },
+            {
+                "name": "İç Giyim",
+                "subattributes": [
+                    "İç Giyim"
+                ]
+            },
+            {
+                "name": "Hamile",
+                "subattributes": [
+                    "Hamile"
+                ]
+            },
+            {
+                "name": "Prom/Bridesmaid",
+                "subattributes": [
+                    "Prom/Bridesmaid"
+                ]
+            },
+            {
+                "name": "European",
+                "subattributes": [
+                    "European"
+                ]
+            },
+            {
+                "name": "Halloween",
+                "subattributes": [
+                    "Halloween"
+                ]
+            },
+            {
+                "name": "Authentic",
+                "subattributes": [
+                    "Authentic"
+                ]
+            },
+            {
+                "name": "Classic Slip-On",
+                "subattributes": [
+                    "Classic Slip-On Platform",
+                    "Classic Slip-On"
+                ]
+            },
+            {
+                "name": "Old Skool",
+                "subattributes": [
+                    "Old Skool"
+                ]
+            },
+            {
+                "name": "Era",
+                "subattributes": [
+                    "Era"
+                ]
+            }
+        ]
+    },
+
+    "Kumaş Tipi": {
+        "name": "Kumaş Tipi",
+        "attributes": [
+            {
+                "name": "Dokuma",
+                "subattributes": [
+                    "Dokuma"
+                ]
+            },
+            {
+                "name": "Kumaş",
+                "subattributes": [
+                    "Kumaş"
+                ]
+            },
+            {
+                "name": "Süprem",
+                "subattributes": [
+                    "Süprem"
+                ]
+            },
+            {
+                "name": "Triko",
+                "subattributes": [
+                    "Triko",
+                    "Örgülü",
+                    "Örgü",
+                    "Örme",
+                    "Fake Triko",
+                    "Triko görünümlü"
+                ]
+            },
+            {
+                "name": "Basket",
+                "subattributes": [
+                    "Basket"
+                ]
+            },
+            {
+                "name": "Denim",
+                "subattributes": [
+                    "Denim"
+                ]
+            },
+            {
+                "name": "Dantel",
+                "subattributes": [
+                    "Dantel",
+                    "Dantel/Brode"
+                ]
+            },
+            {
+                "name": "Poplin",
+                "subattributes": [
+                    "Poplin"
+                ]
+            },
+            {
+                "name": "Sandy",
+                "subattributes": [
+                    "Sandy"
+                ]
+            },
+            {
+                "name": "Diagonel",
+                "subattributes": [
+                    "Diagonel"
+                ]
+            },
+            {
+                "name": "Kaşkorse",
+                "subattributes": [
+                    "Kaşkorse"
+                ]
+            },
+            {
+                "name": "Flamlı",
+                "subattributes": [
+                    "Flamlı"
+                ]
+            },
+            {
+                "name": "Viskon Polyester",
+                "subattributes": [
+                    "Viskon Polyester",
+                    "Poliviscone",
+                    "Poliviskon"
+                ]
+            },
+            {
+                "name": "Keten Karışımlı",
+                "subattributes": [
+                    "Keten Karışımlı"
+                ]
+            },
+            {
+                "name": "Şifon",
+                "subattributes": [
+                    "Şifon"
+                ]
+            },
+            {
+                "name": "Kadife",
+                "subattributes": [
+                    "Kadife"
+                ]
+            },
+            {
+                "name": "Krep",
+                "subattributes": [
+                    "Krep"
+                ]
+            },
+            {
+                "name": "Selanik",
+                "subattributes": [
+                    "Selanik"
+                ]
+            },
+            {
+                "name": "Akrilik",
+                "subattributes": [
+                    "Akrilik"
+                ]
+            },
+            {
+                "name": "Dolum",
+                "subattributes": [
+                    "Dolum"
+                ]
+            },
+            {
+                "name": "Kanvas",
+                "subattributes": [
+                    "Kanvas"
+                ]
+            },
+            {
+                "name": "Naylon",
+                "subattributes": [
+                    "Naylon",
+                    "20 d Naylon",
+                    "20 Denye Naylon"
+                ]
+            },
+            {
+                "name": "Polyester",
+                "subattributes": [
+                    "Polyester"
+                ]
+            },
+            {
+                "name": "Viskon Akrilik",
+                "subattributes": [
+                    "Viskon Akrilik",
+                    "Visko/Akrilik"
+                ]
+            },
+            {
+                "name": "Lycralı Süprem",
+                "subattributes": [
+                    "Lycralı Süprem"
+                ]
+            },
+            {
+                "name": "Fisto",
+                "subattributes": [
+                    "Fisto"
+                ]
+            },
+            {
+                "name": "Viskon",
+                "subattributes": [
+                    "Viskon",
+                    "Viskoz"
+                ]
+            },
+            {
+                "name": "Akrilik/Polyester",
+                "subattributes": [
+                    "Akrilik/Polyester"
+                ]
+            },
+            {
+                "name": "Polyester Elastan",
+                "subattributes": [
+                    "Polyester Elastan"
+                ]
+            },
+            {
+                "name": "Pamuk",
+                "subattributes": [
+                    "Pamuk",
+                    "%100 Pamuk"
+                ]
+            },
+            {
+                "name": "Polar",
+                "subattributes": [
+                    "Polar"
+                ]
+            },
+            {
+                "name": "Tüvit",
+                "subattributes": [
+                    "Tüvit"
+                ]
+            },
+            {
+                "name": "Tül",
+                "subattributes": [
+                    "Tül"
+                ]
+            },
+            {
+                "name": "Paraşüt",
+                "subattributes": [
+                    "Paraşüt"
+                ]
+            },
+            {
+                "name": "Pamuk Karışımlı",
+                "subattributes": [
+                    "Pamuk Karışımlı"
+                ]
+            },
+            {
+                "name": "Viskon Süprem",
+                "subattributes": [
+                    "Viskon Süprem"
+                ]
+            },
+            {
+                "name": "Saten",
+                "subattributes": [
+                    "Saten"
+                ]
+            },
+            {
+                "name": "Keten",
+                "subattributes": [
+                    "Keten",
+                    "Fake Keten",
+                    "Keten görünümlü"
+                ]
+            },
+            {
+                "name": "Oxford",
+                "subattributes": [
+                    "Oxford"
+                ]
+            },
+            {
+                "name": "Payet",
+                "subattributes": [
+                    "Payet"
+                ]
+            },
+            {
+                "name": "Flanel",
+                "subattributes": [
+                    "Flanel"
+                ]
+            },
+            {
+                "name": "İnterlok",
+                "subattributes": [
+                    "İnterlok"
+                ]
+            },
+            {
+                "name": "Micro",
+                "subattributes": [
+                    "Micro",
+                    "Soft Micro"
+                ]
+            },
+            {
+                "name": "Reflektör",
+                "subattributes": [
+                    "Reflektör"
+                ]
+            },
+            {
+                "name": "Tek Plaka",
+                "subattributes": [
+                    "Tek Plaka"
+                ]
+            },
+            {
+                "name": "Cotonel",
+                "subattributes": [
+                    "Cotonel"
+                ]
+            },
+            {
+                "name": "Gabardin",
+                "subattributes": [
+                    "Gabardin"
+                ]
+            },
+            {
+                "name": "Kaşe",
+                "subattributes": [
+                    "Kaşe"
+                ]
+            },
+            {
+                "name": "Vual",
+                "subattributes": [
+                    "Vual"
+                ]
+            },
+            {
+                "name": "Pike",
+                "subattributes": [
+                    "Pike"
+                ]
+            },
+            {
+                "name": "Aerobin",
+                "subattributes": [
+                    "Aerobin"
+                ]
+            },
+            {
+                "name": "Kapitone",
+                "subattributes": [
+                    "Kapitone"
+                ]
+            },
+            {
+                "name": "Jakarlı",
+                "subattributes": [
+                    "Jakarlı",
+                    "Jakar"
+                ]
+            },
+            {
+                "name": "Dalgıç",
+                "subattributes": [
+                    "Dalgıç",
+                    "Dalgıç/Scuba",
+                    "Dalgıç Kumaş",
+                    "Scuba"
+                ]
+            },
+            {
+                "name": "Yumoş",
+                "subattributes": [
+                    "Yumoş"
+                ]
+            },
+            {
+                "name": "Power-strech",
+                "subattributes": [
+                    "Power-strech"
+                ]
+            },
+            {
+                "name": "Pearl",
+                "subattributes": [
+                    "Pearl"
+                ]
+            },
+            {
+                "name": "Süet",
+                "subattributes": [
+                    "Süet"
+                ]
+            },
+            {
+                "name": "Rigid",
+                "subattributes": [
+                    "Rigid"
+                ]
+            },
+            {
+                "name": "Kalın Crep",
+                "subattributes": [
+                    "Kalın Crep"
+                ]
+            },
+            {
+                "name": "Organze",
+                "subattributes": [
+                    "Organze"
+                ]
+            },
+            {
+                "name": "Double Face",
+                "subattributes": [
+                    "Double Face"
+                ]
+            },
+            {
+                "name": "Kesik Elyaf",
+                "subattributes": [
+                    "Kesik Elyaf"
+                ]
+            },
+            {
+                "name": "Ottoman",
+                "subattributes": [
+                    "Ottoman"
+                ]
+            },
+            {
+                "name": "Yün Karışımlı",
+                "subattributes": [
+                    "Yün Karışımlı"
+                ]
+            },
+            {
+                "name": "Plain",
+                "subattributes": [
+                    "Plain"
+                ]
+            },
+            {
+                "name": "Brode",
+                "subattributes": [
+                    "Brode"
+                ]
+            },
+            {
+                "name": "Havlu",
+                "subattributes": [
+                    "Havlu"
+                ]
+            },
+            {
+                "name": "Stretch",
+                "subattributes": [
+                    "Stretch"
+                ]
+            },
+            {
+                "name": "Ribana",
+                "subattributes": [
+                    "Ribana"
+                ]
+            },
+            {
+                "name": "Peluş",
+                "subattributes": [
+                    "Peluş"
+                ]
+            },
+            {
+                "name": "Yün",
+                "subattributes": [
+                    "Yün"
+                ]
+            },
+            {
+                "name": "Seamless",
+                "subattributes": [
+                    "Seamless"
+                ]
+            },
+            {
+                "name": "Waffle",
+                "subattributes": [
+                    "Waffle"
+                ]
+            },
+            {
+                "name": "Simli Örme",
+                "subattributes": [
+                    "Simli Örme"
+                ]
+            },
+            {
+                "name": "Muline",
+                "subattributes": [
+                    "Muline"
+                ]
+            },
+            {
+                "name": "Pamuk - Elastan",
+                "subattributes": [
+                    "Pamuk - Elastan",
+                    "Pamuk Elastan"
+                ]
+            },
+            {
+                "name": "Bonded",
+                "subattributes": [
+                    "Bonded"
+                ]
+            },
+            {
+                "name": "Gofre",
+                "subattributes": [
+                    "Gofre",
+                    "Gofre Kumaş"
+                ]
+            },
+            {
+                "name": "Queen Crep",
+                "subattributes": [
+                    "Queen Crep"
+                ]
+            },
+            {
+                "name": "Kürk",
+                "subattributes": [
+                    "Kürk"
+                ]
+            },
+            {
+                "name": "Comfort",
+                "subattributes": [
+                    "Comfort"
+                ]
+            },
+            {
+                "name": "Finike",
+                "subattributes": [
+                    "Finike"
+                ]
+            },
+            {
+                "name": "Jesica",
+                "subattributes": [
+                    "Jesica",
+                    "Jessica"
+                ]
+            },
+            {
+                "name": "Moonlight",
+                "subattributes": [
+                    "Moonlight"
+                ]
+            },
+            {
+                "name": "File",
+                "subattributes": [
+                    "File"
+                ]
+            },
+            {
+                "name": "Shetland",
+                "subattributes": [
+                    "Shetland"
+                ]
+            },
+            {
+                "name": "Teknik Kumaş",
+                "subattributes": [
+                    "Teknik Kumaş",
+                    "Teknik kumaş"
+                ]
+            },
+            {
+                "name": "Filafil",
+                "subattributes": [
+                    "Filafil"
+                ]
+            },
+            {
+                "name": "Interlok",
+                "subattributes": [
+                    "Interlok"
+                ]
+            },
+            {
+                "name": "Lyocell",
+                "subattributes": [
+                    "Lyocell"
+                ]
+            },
+            {
+                "name": "Yoryo Şifon",
+                "subattributes": [
+                    "Yoryo Şifon"
+                ]
+            },
+            {
+                "name": "Maroken",
+                "subattributes": [
+                    "Maroken"
+                ]
+            },
+            {
+                "name": "Crinkle",
+                "subattributes": [
+                    "Crinkle"
+                ]
+            },
+            {
+                "name": "Tafta",
+                "subattributes": [
+                    "Tafta"
+                ]
+            },
+            {
+                "name": "Jarse",
+                "subattributes": [
+                    "Jarse"
+                ]
+            },
+            {
+                "name": "Jazz",
+                "subattributes": [
+                    "Jazz"
+                ]
+            },
+            {
+                "name": "Köpük",
+                "subattributes": [
+                    "Köpük"
+                ]
+            },
+            {
+                "name": "Sakal",
+                "subattributes": [
+                    "Sakal"
+                ]
+            },
+            {
+                "name": "İpliği boyalı Flamlı Pamuk",
+                "subattributes": [
+                    "İpliği boyalı Flamlı Pamuk"
+                ]
+            },
+            {
+                "name": "Balıksırtı",
+                "subattributes": [
+                    "Balıksırtı"
+                ]
+            },
+            {
+                "name": "Bengalin",
+                "subattributes": [
+                    "Bengalin"
+                ]
+            },
+            {
+                "name": "Bubble Saten",
+                "subattributes": [
+                    "Bubble Saten"
+                ]
+            },
+            {
+                "name": "Buklet",
+                "subattributes": [
+                    "Buklet"
+                ]
+            },
+
+            {
+                "name": "Şönil",
+                "subattributes": [
+                    "Şönil"
+                ]
+            },
+
+            {
+                "name": "Pamuk Polyester",
+                "subattributes": [
+                    "Pamuk Polyester",
+                    "Policotton",
+                    "Polikoton"
+                ]
+            },
+
+            {
+                "name": "Jacquard",
+                "subattributes": [
+                    "Jacquard"
+                ]
+            },
+
+            {
+                "name": "Ringel",
+                "subattributes": [
+                    "Ringel"
+                ]
+            },
+
+            {
+                "name": "Pamuk Akrilik",
+                "subattributes": [
+                    "Pamuk Akrilik"
+                ]
+            },
+
+            {
+                "name": "Terrycotton",
+                "subattributes": [
+                    "Terrycotton"
+                ]
+            },
+
+            {
+                "name": "Bürümcük",
+                "subattributes": [
+                    "Bürümcük"
+                ]
+            },
+
+            {
+                "name": "Kaşmir",
+                "subattributes": [
+                    "Kaşmir"
+                ]
+            },
+
+            {
+                "name": "Çift Plaka",
+                "subattributes": [
+                    "Çift Plaka"
+                ]
+            },
+
+            {
+                "name": "Softshell",
+                "subattributes": [
+                    "Softshell"
+                ]
+            },
+
+            {
+                "name": "Şardon Akrilik",
+                "subattributes": [
+                    "Şardon Akrilik"
+                ]
+            },
+
+            {
+                "name": "Rugan",
+                "subattributes": [
+                    "Rugan"
+                ]
+            },
+
+            {
+                "name": "Raşel",
+                "subattributes": [
+                    "Raşel"
+                ]
+            },
+
+            {
+                "name": "Cupro",
+                "subattributes": [
+                    "Cupro"
+                ]
+            },
+
+            {
+                "name": "Keten Aerobin",
+                "subattributes": [
+                    "Keten Aerobin"
+                ]
+            },
+
+            {
+                "name": "Deri",
+                "subattributes": [
+                    "Deri",
+                    "Suni Deri"
+                ]
+            },
+
+            {
+                "name": "Strech",
+                "subattributes": [
+                    "Strech"
+                ]
+            },
+
+            {
+                "name": "3 İplik Şardonlu",
+                "subattributes": [
+                    "3 İplik Şardonlu",
+                    "3 İplik Şardonlu Rejenere",
+                    "3 iplik vorteks şardonlu",
+                    "3 iplik openend şardonlu",
+                    "3 İplik Şardonlu",
+                    "3 iplik penye şardonlu",
+                    "3 iplik rejenere şardonlu"
+                ]
+            },
+
+            {
+                "name": "2 İplik Şardonlu",
+                "subattributes": [
+                    "2 İplik Şardonlu Rejenere",
+                    "2 İplik Şardonlu",
+                    "2 iplik vorteks şardonlu",
+                    "2 iplik openend şardonlu",
+                    "2 iplik rejenere şardonlu",
+                    "2 iplik penye şardonlu"
+                ]
+            },
+
+            {
+                "name": "Mesh",
+                "subattributes": [
+                    "Mesh"
+                ]
+            },
+
+            {
+                "name": "Düz",
+                "subattributes": [
+                    "Düz"
+                ]
+            },
+
+            {
+                "name": "Belmando",
+                "subattributes": [
+                    "Belmando"
+                ]
+            },
+            {
+                "name": "Ajur",
+                "subattributes": [
+                    "Ajur"
+                ]
+            },
+            {
+                "name": "Flamlı Pamuk",
+                "subattributes": [
+                    "Flamlı Pamuk"
+                ]
+            },
+            {
+                "name": "2 İplik",
+                "subattributes": [
+                    "2 İplik Rejenere",
+                    "2 İplik",
+                    "2 iplik penye",
+                    "2 İplik Şardonsuz",
+                    "2 iplik rejenere şardonsuz",
+                    "2 iplik openend",
+                    "2 iplik vorteks"
+                ]
+            },
+            {
+                "name": "3 İplik",
+                "subattributes": [
+                    "3 İplik Rejenere",
+                    "3 İplik",
+                    "3 İplik Şardonsuz",
+                    "3 iplik penye",
+                    "3 İplik",
+                    "3 iplik openend",
+                    "3 İplik rejenere",
+                    "3 iplik vorteks"
+
+                ]
+            },
+            {
+                "name": "Jakar Saten",
+                "subattributes": [
+                    "Jakar Saten"
+                ]
+            },
+            {
+                "name": "Moss Krep",
+                "subattributes": [
+                    "Moss Krep"
+                ]
+            },
+            {
+                "name": "Terikoton",
+                "subattributes": [
+                    "Terikoton"
+                ]
+            },
+            {
+                "name": "Fitilli",
+                "subattributes": [
+                    "Fitilli"
+                ]
+            },
+            {
+                "name": "Sandy",
+                "subattributes": [
+                    "Sandy"
+                ]
+            },
+            {
+                "name": "Twill",
+                "subattributes": [
+                    "Twill"
+                ]
+            },
+            {
+                "name": "Dokulu",
+                "subattributes": [
+                    "Dokulu"
+                ]
+            },
+            {
+                "name": "Dolu İğne",
+                "subattributes": [
+                    "Dolu İğne"
+                ]
+            },
+            {
+                "name": "Bambu",
+                "subattributes": [
+                    "Bambu"
+                ]
+            },
+            {
+                "name": "Memory",
+                "subattributes": [
+                    "Memory"
+                ]
+            },
+            {
+                "name": "Ponpon Şifon",
+                "subattributes": [
+                    "Ponpon Şifon"
+                ]
+            },
+            {
+                "name": "Pilise",
+                "subattributes": [
+                    "Pilise"
+                ]
+            },
+            {
+                "name": "Dobby",
+                "subattributes": [
+                    "Dobby"
+                ]
+            },
+            {
+                "name": "Scuba Krep",
+                "subattributes": [
+                    "Scuba Krep"
+                ]
+            },
+            {
+                "name": "Chally",
+                "subattributes": [
+                    "Chally"
+                ]
+            },
+            {
+                "name": "Polyester Kaşkorse",
+                "subattributes": [
+                    "Polyester Kaşkorse"
+                ]
+            },
+            {
+                "name": "Parlak",
+                "subattributes": [
+                    "Parlak"
+                ]
+            },
+            {
+                "name": "Polielit",
+                "subattributes": [
+                    "Polielit"
+                ]
+            },
+            {
+                "name": "Bubble Krep",
+                "subattributes": [
+                    "Bubble Krep"
+                ]
+            },
+            {
+                "name": "Koshiba",
+                "subattributes": [
+                    "Koshiba"
+                ]
+            },
+            {
+                "name": "Ponpon Viskon",
+                "subattributes": [
+                    "Ponpon Viskon"
+                ]
+            },
+            {
+                "name": "Buzzy",
+                "subattributes": [
+                    "Buzzy"
+                ]
+            },
+            {
+                "name": "Shally",
+                "subattributes": [
+                    "Shally"
+                ]
+            },
+            {
+                "name": "Flamlı Süprem",
+                "subattributes": [
+                    "Flamlı Süprem"
+                ]
+            },
+            {
+                "name": "Ribana/Kaşkorse",
+                "subattributes": [
+                    "Ribana/Kaşkorse"
+                ]
+            },
+            {
+                "name": "Saç Örgü",
+                "subattributes": [
+                    "Saç Örgü"
+                ]
+            },
+            {
+                "name": "Intersia",
+                "subattributes": [
+                    "Intersia"
+                ]
+            },
+            {
+                "name": "Müslin",
+                "subattributes": [
+                    "Müslin"
+                ]
+            }
+        ]
+    },
+    
+    "Desen": {
+        "name": "Desen",
+        "attributes": [
+            {
+                "name": "Desenli",
+                "subattributes": [
+                    "Desenli"
+                ]
+            },
+            {
+                "name": "Düz",
+                "subattributes": [
+                    "Düz",
+                    "Düz Renk"
+                ]
+            },
+            {
+                "name": "Yazılı",
+                "subattributes": [
+                    "Yazılı"
+                ]
+            },
+            {
+                "name": "Desensiz",
+                "subattributes": [
+                    "Desensiz"
+                ]
+            },
+            {
+                "name": "Baskılı",
+                "subattributes": [
+                    "Baskılı",
+                    "Sırt Baskılı"
+                ]
+            },
+            {
+                "name": "Jakarlı",
+                "subattributes": [
+                    "Jakarlı"
+                ]
+            },
+            {
+                "name": "Geometrik",
+                "subattributes": [
+                    "Geometrik"
+                ]
+            },
+            {
+                "name": "Çizgili",
+                "subattributes": [
+                    "Çizgili"
+                ]
+            },
+            {
+                "name": "Çiçekli",
+                "subattributes": [
+                    "Çiçekli"
+                ]
+            },
+            {
+                "name": "Ekose / Kareli",
+                "subattributes": [
+                    "Ekose / Kareli"
+                ]
+            },
+            {
+                "name": "Slogan",
+                "subattributes": [
+                    "Slogan",
+                    "Yazı Karekterli / Motto"
+                ]
+            },
+            {
+                "name": "Dijital Baskı",
+                "subattributes": [
+                    "Dijital Baskı"
+                ]
+            },
+            {
+                "name": "Renkli",
+                "subattributes": [
+                    "Renkli"
+                ]
+            },
+            {
+                "name": "Nakışlı / İşlemeli",
+                "subattributes": [
+                    "Nakışlı / İşlemeli"
+                ]
+            },
+            {
+                "name": "Dantel/Güpür",
+                "subattributes": [
+                    "Dantel/Güpür"
+                ]
+            },
+            {
+                "name": "Leopar",
+                "subattributes": [
+                    "Leopar"
+                ]
+            },
+            {
+                "name": "Galaksi",
+                "subattributes": [
+                    "Galaksi"
+                ]
+            },
+            {
+                "name": "Renkli",
+                "subattributes": [
+                    "Renkli"
+                ]
+            },
+            {
+                "name": "Tropik",
+                "subattributes": [
+                    "Tropik"
+                ]
+            },
+            {
+                "name": "Şal Desen",
+                "subattributes": [
+                    "Şal Desen"
+                ]
+            },
+            {
+                "name": "Hayvan Desenli",
+                "subattributes": [
+                    "Hayvan Desenli",
+                    "Animal",
+                    "Hayvanlar Alemi"
+                ]
+            },
+            {
+                "name": "Dokulu",
+                "subattributes": [
+                    "Dokulu"
+                ]
+            },
+            {
+                "name": "Soyut",
+                "subattributes": [
+                    "Soyut"
+                ]
+            },
+            {
+                "name": "Manzara",
+                "subattributes": [
+                    "Manzara"
+                ]
+            },
+            {
+                "name": "Renk Bloklu",
+                "subattributes": [
+                    "Renk Bloklu"
+                ]
+            },
+            {
+                "name": "Batik",
+                "subattributes": [
+                    "Batik"
+                ]
+            },
+            {
+                "name": "Zebra",
+                "subattributes": [
+                    "Zebra"
+                ]
+            },
+            {
+                "name": "Big Logo",
+                "subattributes": [
+                    "Big Logo"
+                ]
+            },
+            {
+                "name": "Armürlü",
+                "subattributes": [
+                    "Armürlü"
+                ]
+            },
+            {
+                "name": "Kelebek",
+                "subattributes": [
+                    "Kelebek"
+                ]
+            },
+            {
+                "name": "Puantiyeli",
+                "subattributes": [
+                    "Puantiyeli"
+                ]
+            },
+            {
+                "name": "Balık sırtı",
+                "subattributes": [
+                    "Balık sırtı"
+                ]
+            },
+            {
+                "name": "Kamuflaj",
+                "subattributes": [
+                    "Kamuflaj"
+                ]
+            },
+            {
+                "name": "Figür",
+                "subattributes": [
+                    "Figür"
+                ]
+            },
+            {
+                "name": "Etnik",
+                "subattributes": [
+                    "Etnik"
+                ]
+            },
+            {
+                "name": "Kırçıllı",
+                "subattributes": [
+                    "Kırçıllı"
+                ]
+            },
+            {
+                "name": "Mikro Desen",
+                "subattributes": [
+                    "Mikro Desen"
+                ]
+            },
+            {
+                "name": "Logolu",
+                "subattributes": [
+                    "Logolu"
+                ]
+            },
+            {
+                "name": "Kalp",
+                "subattributes": [
+                    "Kalp"
+                ]
+            },
+            {
+                "name": "Baklava",
+                "subattributes": [
+                    "Baklava"
+                ]
+            },
+            {
+                "name": "Ajurlu",
+                "subattributes": [
+                    "Ajurlu"
+                ]
+            },
+            {
+                "name": "Aplikeli",
+                "subattributes": [
+                    "Aplikeli"
+                ]
+            },
+            {
+                "name": "Kazayağı",
+                "subattributes": [
+                    "Kazayağı"
+                ]
+            },
+            {
+                "name": "Saç Örgü",
+                "subattributes": [
+                    "Saç Örgü"
+                ]
+            },
+            {
+                "name": "Degrade",
+                "subattributes": [
+                    "Degrade"
+                ]
+            },
+            {
+                "name": "Yıldız",
+                "subattributes": [
+                    "Yıldız"
+                ]
+            },
+            {
+                "name": "Meyve",
+                "subattributes": [
+                    "Meyve"
+                ]
+            },
+            {
+                "name": "Nope",
+                "subattributes": [
+                    "Nope"
+                ]
+            },
+            {
+                "name": "Lisanslı",
+                "subattributes": [
+                    "Lisanslı"
+                ]
+            },
+            {
+                "name": "Sulu Boya",
+                "subattributes": [
+                    "Sulu Boya"
+                ]
+            },
+            {
+                "name": "Tropikal",
+                "subattributes": [
+                    "Tropikal"
+                ]
+            },
+            {
+                "name": "Kadife",
+                "subattributes": [
+                    "Kadife"
+                ]
+            },
+            {
+                "name": "İnek",
+                "subattributes": [
+                    "İnek"
+                ]
+            },
+            {
+                "name": "Ekose",
+                "subattributes": [
+                    "Ekose"
+                ]
+            },
+            {
+                "name": "Kapitone",
+                "subattributes": [
+                    "Kapitone"
+                ]
+            },
+            {
+                "name": "Empirme Baskılı",
+                "subattributes": [
+                    "Empirme Baskılı"
+                ]
+            },
+            {
+                "name": "Pul Payet",
+                "subattributes": [
+                    "Pul Payet"
+                ]
+            },
+            {
+                "name": "Peluş",
+                "subattributes": [
+                    "Peluş"
+                ]
+            },
+            {
+                "name": "Şeritli",
+                "subattributes": [
+                    "Şeritli"
+                ]
+            },
+            {
+                "name": "Tiger",
+                "subattributes": [
+                    "Tiger"
+                ]
+            },
+            {
+                "name": "3 Boyutlu",
+                "subattributes": [
+                    "3 Boyutlu"
+                ]
+            },
+            {
+                "name": "Yılan",
+                "subattributes": [
+                    "Yılan"
+                ]
+            },
+            {
+                "name": "Şehir & Doğa Manzaraları",
+                "subattributes": [
+                    "Şehir & Doğa Manzaraları"
+                ]
+            },
+            {
+                "name": "Pötikare",
+                "subattributes": [
+                    "Pötikare"
+                ]
+            },
+            {
+                "name": "Yılbaşı",
+                "subattributes": [
+                    "Yılbaşı"
+                ]
+            },
+            {
+                "name": "Destroylu",
+                "subattributes": [
+                    "Destroylu"
+                ]
+            },
+            {
+                "name": "Retro",
+                "subattributes": [
+                    "Retro"
+                ]
+            },
+            {
+                "name": "Zigzag",
+                "subattributes": [
+                    "Zigzag"
+                ]
+            },
+            {
+                "name": "Comics",
+                "subattributes": [
+                    "Comics"
+                ]
+            },
+            {
+                "name": "Sanatsal",
+                "subattributes": [
+                    "Sanatsal"
+                ]
+            },
+            {
+                "name": "Varaklı",
+                "subattributes": [
+                    "Varaklı"
+                ]
+            },
+            {
+                "name": "Panelli",
+                "subattributes": [
+                    "Panelli"
+                ]
+            },
+            {
+                "name": "Çini",
+                "subattributes": [
+                    "Çini"
+                ]
+            },
+            {
+                "name": "Lurex",
+                "subattributes": [
+                    "Lurex"
+                ]
+            },
+            {
+                "name": "Dama",
+                "subattributes": [
+                    "Dama"
+                ]
+            },
+            {
+                "name": "Nakış",
+                "subattributes": [
+                    "Nakış"
+                ]
+            },
+            {
+                "name": "Merserize",
+                "subattributes": [
+                    "Merserize"
+                ]
+            },
+            {
+                "name": "Akıtma",
+                "subattributes": [
+                    "Akıtma"
+                ]
+            },
+            {
+                "name": "Timsah",
+                "subattributes": [
+                    "Timsah"
+                ]
+            },
+            {
+                "name": "Dinazor",
+                "subattributes": [
+                    "Dinazor"
+                ]
+            },
+            {
+                "name": "Silüet",
+                "subattributes": [
+                    "Silüet"
+                ]
+            },
+            {
+                "name": "Hologram",
+                "subattributes": [
+                    "Hologram"
+                ]
+            },
+            {
+                "name": "City",
+                "subattributes": [
+                    "City"
+                ]
+            },
+            {
+                "name": "Doğal Taş Görünümlü",
+                "subattributes": [
+                    "Doğal Taş Görünümlü"
+                ]
+            },
+            {
+                "name": "Geometrik Şekilli",
+                "subattributes": [
+                    "Geometrik Şekilli"
+                ]
+            },
+            {
+                "name": "Reflektör",
+                "subattributes": [
+                    "Reflektör"
+                ]
+            },
+            {
+                "name": "Ringelli",
+                "subattributes": [
+                    "Ringelli"
+                ]
+            }
+            
+        ]
+    },
+    
+    "Kapama Şekli": {
+        "name": "Kapama Şekli",
+        "attributes": [
+            {
+                "name": "Kapamasız",
+                "subattributes": [
+                    "Kapamasız"
+                ]
+            },
+            {
+                "name": "Bağcıklı",
+                "subattributes": [
+                    "Bağcıklı"
+                ]
+            },
+            {
+                "name": "Lastikli",
+                "subattributes": [
+                    "Lastikli"
+                ]
+            },
+            {
+                "name": "Kuşaklı",
+                "subattributes": [
+                    "Kuşaklı"
+                ]
+            },
+            {
+                "name": "Bağlamalı",
+                "subattributes": [
+                    "Bağlamalı"
+                ]
+            },
+            {
+                "name": "Geçirmeli",
+                "subattributes": [
+                    "Geçirmeli"
+                ]
+            },
+            {
+                "name": "Klipsli",
+                "subattributes": [
+                    "Klipsli"
+                ]
+            },
+            {
+                "name": "Kancalı",
+                "subattributes": [
+                    "Kanca-Kopça",
+                    "Kancalı"
+                ]
+            },
+            {
+                "name": "Kruvaze",
+                "subattributes": [
+                    "Kruvaze"
+                ]
+            },
+            {
+                "name": "Kemer Tokası",
+                "subattributes": [
+                    "Kemer Tokası"
+                ]
+            },
+            {
+                "name": "Bantlı",
+                "subattributes": [
+                    "Bantlı",
+                    "Cırt Bant"
+                ]
+            },
+            {
+                "name": "Pat Kapama",
+                "subattributes": [
+                    "Pat Kapama"
+                ]
+            },
+            {
+                "name": "Büzgülü",
+                "subattributes": [
+                    "Büzgülü"
+                ]
+            },
+            {
+                "name": "Mıknatıs",
+                "subattributes": [
+                    "Mıknatıs"
+                ]
+            },
+            {
+                "name": "Fermuarlı",
+                "subattributes": [
+                    "Fermuarlı",
+                    "Çıt çıt + Fermuar",
+                    "Düğme + Fermuar"
+                ]
+            },
+            {
+                "name": "Düğmeli",
+                "subattributes": [
+                    "Düğmeli"
+                ]
+            },
+            {
+                "name": "Çıt Çıt",
+                "subattributes": [
+                    "Çıt Çıt"
+                ]
+            }
+        ]
+    },
+
+    "Astar Durumu": {
+        "name": "Astar Durumu",
+        "attributes": [
+            {
+                "name": "Astarlı",
+                "subattributes": [
+                    "Astarlı"
+                ]
+            },
+            {
+                "name": "Astarsız",
+                "subattributes": [
+                    "Astarsız"
+                ]
+            }
+        ]
+    },
+
+    "Ek Özellik": {
+        "name": "Ek Özellik",
+        "attributes": [
+            {
+                "name": "İç Göstermeyen",
+                "subattributes": [
+                    "İç Göstermeyen"
+                ]
+            },
+            {
+                "name": "Yırtmaçlı",
+                "subattributes": [
+                    "Yırtmaçlı"
+                ]
+            },
+            {
+                "name": "Esnek",
+                "subattributes": [
+                    "Esnek"
+                ]
+            },
+            {
+                "name": "Lisanslı",
+                "subattributes": [
+                    "Lisanslı"
+                ]
+            },
+            {
+                "name": "Saten",
+                "subattributes": [
+                    "Saten"
+                ]
+            },
+            {
+                "name": "Esnek Bel",
+                "subattributes": [
+                    "Esnek Bel"
+                ]
+            },
+            {
+                "name": "Çıkabilir Kapüşon",
+                "subattributes": [
+                    "Çıkabilir Kapüşon"
+                ]
+            },
+            {
+                "name": "Beli lastikli",
+                "subattributes": [
+                    "Beli lastikli",
+                    "Lastikli Bel"
+                ]
+            },
+            {
+                "name": "Korseli",
+                "subattributes": [
+                    "Korseli",
+                    "Korsaj"
+                ]
+            },
+            {
+                "name": "Bağcıklı",
+                "subattributes": [
+                    "Bağcıklı"
+                ]
+            },
+            {
+                "name": "Çıkabilir Yaka",
+                "subattributes": [
+                    "Çıkabilir Yaka"
+                ]
+            },
+            {
+                "name": "Çıkabilir Kol",
+                "subattributes": [
+                    "Çıkabilir Kol"
+                ]
+            },
+            {
+                "name": "Kürk Yaka",
+                "subattributes": [
+                    "Kürk Yaka"
+                ]
+            },
+            {
+                "name": "Biyeli",
+                "subattributes": [
+                    "Biyeli"
+                ]
+            },
+            {
+                "name": "Astarlı",
+                "subattributes": [
+                    "Astarlı"
+                ]
+            },
+            {
+                "name": "Cep",
+                "subattributes": [
+                    "Cep"
+                ]
+            },
+            {
+                "name": "Düğme",
+                "subattributes": [
+                    "Düğme"
+                ]
+            },
+            {
+                "name": "Fermuar",
+                "subattributes": [
+                    "Fermuar"
+                ]
+            },
+            {
+                "name": "Paça",
+                "subattributes": [
+                    "Paça"
+                ]
+            },
+            {
+                "name": "Yırtmaçlı",
+                "subattributes": [
+                    "Yırtmaçlı",
+                    "Yırtmaç Detay"
+                ]
+            },
+            {
+                "name": "Çıtçıt Kapamalı",
+                "subattributes": [
+                    "Çıtçıt Kapamalı"
+                ]
+            },
+            {
+                "name": "Denim Kumaş",
+                "subattributes": [
+                    "Denim Kumaş"
+                ]
+            },
+            {
+                "name": "Kemerli",
+                "subattributes": [
+                    "Kemerli"
+                ]
+            },
+            {
+                "name": "Fırfır",
+                "subattributes": [
+                    "Fırfır"
+                ]
+            },
+            {
+                "name": "Kuşaklı",
+                "subattributes": [
+                    "Kuşaklı"
+                ]
+            },
+            {
+                "name": "İnci/Trok/Taş/Kuş Gözü",
+                "subattributes": [
+                    "İnci/Trok/Taş/Kuş Gözü"
+                ]
+            },
+            {
+                "name": "Şeritli",
+                "subattributes": [
+                    "Şeritli"
+                ]
+            },
+            {
+                "name": "Dantel/Mesh/File",
+                "subattributes": [
+                    "Dantel/Mesh/File",
+                    "Dantel"
+                ]
+            },
+            {
+                "name": "Örme Garni",
+                "subattributes": [
+                    "Örme Garni"
+                ]
+            },
+            {
+                "name": "Vatkalı",
+                "subattributes": [
+                    "Vatkalı"
+                ]
+            },
+            {
+                "name": "Dokuma Garnili",
+                "subattributes": [
+                    "Dokuma Garnili"
+                ]
+            },
+            {
+                "name": "Zincir",
+                "subattributes": [
+                    "Zincir"
+                ]
+            },
+            {
+                "name": "Kürk/Peluş/Şerpa",
+                "subattributes": [
+                    "Kürk/Peluş/Şerpa"
+                ]
+            },
+            {
+                "name": "Aplike",
+                "subattributes": [
+                    "Aplike"
+                ]
+            },
+            {
+                "name": "Gipe",
+                "subattributes": [
+                    "Gipe"
+                ]
+            },
+            {
+                "name": "Püskül",
+                "subattributes": [
+                    "Püskül",
+                    "Püskül Detay"
+                ]
+            },
+            {
+                "name": "Cut Out",
+                "subattributes": [
+                    "Cut Out"
+                ]
+            },
+            {
+                "name": "Payet",
+                "subattributes": [
+                    "Payet"
+                ]
+            },
+            {
+                "name": "Organze",
+                "subattributes": [
+                    "Organze"
+                ]
+            },
+            {
+                "name": "Jakar Panelli",
+                "subattributes": [
+                    "Jakar Panelli"
+                ]
+            },
+            {
+                "name": "Deri Garni",
+                "subattributes": [
+                    "Deri Garni"
+                ]
+            },
+            {
+                "name": "Toka",
+                "subattributes": [
+                    "Toka"
+                ]
+            },
+            {
+                "name": "Ponpon",
+                "subattributes": [
+                    "Ponpon"
+                ]
+            },
+            {
+                "name": "Panelli",
+                "subattributes": [
+                    "Panelli"
+                ]
+            },
+            {
+                "name": "Büzgü",
+                "subattributes": [
+                    "Büzgü / Drape",
+                    "Büzgü"
+                ]
+            },
+            {
+                "name": "Nervürlü",
+                "subattributes": [
+                    "Nervürlü"
+                ]
+            },
+            {
+                "name": "Yarım Pat",
+                "subattributes": [
+                    "Yarım Pat"
+                ]
+            },
+            {
+                "name": "Kedi Merdiveni",
+                "subattributes": [
+                    "Kedi Merdiveni"
+                ]
+            },
+            {
+                "name": "Karyoka Dikişi",
+                "subattributes": [
+                    "Karyoka Dikişi"
+                ]
+            },
+            {
+                "name": "Stoper",
+                "subattributes": [
+                    "Stoper"
+                ]
+            },
+            {
+                "name": "Brode",
+                "subattributes": [
+                    "Brode"
+                ]
+            },
+            {
+                "name": "Pliseli",
+                "subattributes": [
+                    "Pliseli"
+                ]
+            },
+            {
+                "name": "Fular",
+                "subattributes": [
+                    "Fular"
+                ]
+            },
+            {
+                "name": "Destroylu",
+                "subattributes": [
+                    "Destroylu"
+                ]
+            },
+            {
+                "name": "Apolet",
+                "subattributes": [
+                    "Apolet"
+                ]
+            },
+            {
+                "name": "Sırt Detay",
+                "subattributes": [
+                    "Sırt Detay"
+                ]
+            },
+            {
+                "name": "Çapraz Bağlama",
+                "subattributes": [
+                    "Çapraz Bağlama"
+                ]
+            },
+            {
+                "name": "Fisto Detay",
+                "subattributes": [
+                    "Fisto Detay"
+                ]
+            },
+            {
+                "name": "Bağlama Detay",
+                "subattributes": [
+                    "Bağlama Detay"
+                ]
+            },
+            {
+                "name": "Frize",
+                "subattributes": [
+                    "Frize"
+                ]
+            },
+            {
+                "name": "Yıkamalı",
+                "subattributes": [
+                    "Yıkamalı"
+                ]
+            },
+            {
+                "name": "Volanlı",
+                "subattributes": [
+                    "Volanlı"
+                ]
+            }
+        ]
+    },
+
+    "Okula Dönüş": {
+        "name": "Okula Dönüş",
+        "attributes": [
+            {
+                "name": "İlkokul",
+                "subattributes": [
+                    "İlkokul"
+                ]
+            },
+            {
+                "name": "Üniversite",
+                "subattributes": [
+                    "Üniversite"
+                ]
+            },
+            {
+                "name": "Lise",
+                "subattributes": [
+                    "Lise"
+                ]
+            },
+            {
+                "name": "Okul Öncesi",
+                "subattributes": [
+                    "Okul Öncesi"
+                ]
+            },
+            {
+                "name": "Evde Eğitim",
+                "subattributes": [
+                    "Evde Eğitim"
+                ]
+            },
+            {
+                "name": "Ortaokul",
+                "subattributes": [
+                    "Ortaokul"
+                ]
+            }
+        ]
+    }
+}
