@@ -1,45 +1,337 @@
 {
     "categories" : {
-        "Gender" : "0",
-        "Renk" : "1",
-        "Kol Boyu" : "2",
-        "Kol Tipi" : "2",
-        "Paça Tipi" : "3",
-        "Paça Boyu" : "4",
-        "Ürün Tipi" : "5",
-        "Cep" : "6",
-        "Cep Tipi" : "6",
-        "Bel" : "7",
-        "Boy" : "8",
-        "Siluet" : "9",
-        "Kalıp" : "9",
-        "Kesim" : "9",
-        "Model" : "9",
-        "Yaka Tipi" : "10",
-        "Kemer/Kuşak Durumu" : "11",
-        "Stil" : "12",
-        "Kullanım Alanı" : "12",
-        "Ortam" : "12",
-        "Persona" : "12",
-        "Koleksiyon" : "13",
-        "Kumaş Tipi" : "14",
-        "Kumaş/İplik Özellik" : "14",
-        "Dokuma Tipi" : "14",
-        "Baskı/Nakış Tekniği" : "14",
-        "Desen" : "15",
-        "Kapama Şekli" : "16",
-        "Astar Durumu" : "17",
-        "Ek Özellik" : "18",
-        "Ürün Detayı" : "18",
-        "Okula Dönüş" : "19"
+        "Tip" : "0", 
+        "Gender" : "1",
+        "Renk" : "2",
+        "Kol Boyu" : "3",
+        "Kol Tipi" : "3",
+        "Paça Tipi" : "4",
+        "Paça Boyu" : "5",
+        "Ürün Tipi" : "6",
+        "Cep" : "7",
+        "Cep Tipi" : "7",
+        "Bel" : "8",
+        "Boy" : "9",
+        "Siluet" : "10",
+        "Kalıp" : "10",
+        "Kesim" : "10",
+        "Model" : "10",
+        "Yaka Tipi" : "11",
+        "Kemer/Kuşak Durumu" : "12",
+        "Stil" : "13",
+        "Kullanım Alanı" : "13",
+        "Ortam" : "13",
+        "Persona" : "13",
+        "Koleksiyon" : "14",
+        "Kumaş Tipi" : "15",
+        "Kumaş/İplik Özellik" : "15",
+        "Dokuma Tipi" : "15",
+        "Baskı/Nakış Tekniği" : "15",
+        "Desen" : "16",
+        "Kapama Şekli" : "17",
+        "Astar Durumu" : "18",
+        "Ek Özellik" : "19",
+        "Ürün Detayı" : "19",
+        "Okula Dönüş" : "20"
     },
 
     "exceptions": {
-        "Kapüşonlu" : "10"  
+        "Kapüşonlu" : "11"  
     },
 
     "attributes" :  {
-            "0" : {
+            "0": {
+                "name": "Tip",
+                "attributes": [
+                    {
+                        "name": "Mont",
+                        "subattributes": [
+                            "Mont",
+                            "Büyük Beden Mont"
+                        ]
+                    },
+                    {
+                        "name": "Yelek",
+                        "subattributes": [
+                            "Yelek",
+                            "Büyük Beden Yelek"
+                        ]
+                    },
+                    {
+                        "name": "Abiye Elbise",
+                        "subattributes": [
+                            "Abiye Elbise",
+                            "Büyük Beden Abiye Elbise"
+                        ]
+                    },
+                    {
+                        "name": "Külot",
+                        "subattributes": [
+                            "Büyük Beden Külot",
+                            "Külot"
+                        ]
+                    },
+                    {
+                        "name": "Tunik",
+                        "subattributes": [
+                            "Tunik",
+                            "Büyük Beden Tunik"
+                        ]
+                    },
+                    {
+                        "name": "Gecelik",
+                        "subattributes": [
+                            "Gecelik",
+                            "Büyük Beden Gecelik"
+                        ]
+                    },
+                    {
+                        "name": "Babydoll",
+                        "subattributes": [
+                            "Babydoll",
+                            "Büyük Beden Babydoll"
+                        ]
+                    },
+                    {
+                        "name": "Kaban",
+                        "subattributes": [
+                            "Kaban",
+                            "Büyük Beden Kaban"
+                        ]
+                    },
+                    {
+                        "name": "Sütyen",
+                        "subattributes": [
+                            "Sütyen",
+                            "Büyük Beden Sütyen"
+                        ]
+                    },
+                    {
+                        "name": "T-Shirt",
+                        "subattributes": [
+                            "T-Shirt"
+                        ]
+                    },
+                    {
+                        "name": "Sweatshirt",
+                        "subattributes": [
+                            "Sweatshirt"
+                        ]
+                    },
+                    {
+                        "name": "Elbise",
+                        "subattributes": [
+                            "Elbise"
+                        ]
+                    },
+                    {
+                        "name": "Bluz",
+                        "subattributes": [
+                            "Bluz"
+                        ]
+                    },
+                    {
+                        "name": "Eşarp",
+                        "subattributes": [
+                            "Eşarp"
+                        ]
+                    },
+                    {
+                        "name": "Gömlek",
+                        "subattributes": [
+                            "Gömlek"
+                        ]
+                    },
+                    {
+                        "name": "Pantolon",
+                        "subattributes": [
+                            "Pantolon"
+                        ]
+                    },
+                    {
+                        "name": "Kazak",
+                        "subattributes": [
+                            "Kazak"
+                        ]
+                    },
+                    {
+                        "name": "Şal",
+                        "subattributes": [
+                            "Şal"
+                        ]
+                    },
+                    {
+                        "name": "Ceket",
+                        "subattributes": [
+                            "Ceket"
+                        ]
+                    },
+                    {
+                        "name": "Etek",
+                        "subattributes": [
+                            "Etek"
+                        ]
+                    },
+                    {
+                        "name": "Eşofman",
+                        "subattributes": [
+                            "Eşofman"
+                        ]
+                    },
+                    {
+                        "name": "Jean",
+                        "subattributes": [
+                            "Jean"
+                        ]
+                    },
+                    {
+                        "name": "Eşofman Altı",
+                        "subattributes": [
+                            "Eşofman Altı"
+                        ]
+                    },
+                    {
+                        "name": "Şort",
+                        "subattributes": [
+                            "Şort"
+                        ]
+                    },
+                    {
+                        "name": "Ferace",
+                        "subattributes": [
+                            "Ferace"
+                        ]
+                    },
+                    {
+                        "name": "Tesettür Bone",
+                        "subattributes": [
+                            "Tesettür Bone"
+                        ]
+                    },
+                    {
+                        "name": "Takımlar",
+                        "subattributes": [
+                            "Takımlar"
+                        ]
+                    },
+                    {
+                        "name": "Takım Elbise",
+                        "subattributes": [
+                            "Takım Elbise"
+                        ]
+                    },
+                    {
+                        "name": "Pijama",
+                        "subattributes": [
+                            "Pijama"
+                        ]
+                    },
+                    {
+                        "name": "Hırka",
+                        "subattributes": [
+                            "Hırka"
+                        ]
+                    },
+                    {
+                        "name": "Trençkot",
+                        "subattributes": [
+                            "Trençkot"
+                        ]
+                    },
+                    {
+                        "name": "Tayt",
+                        "subattributes": [
+                            "Tayt"
+                        ]
+                    },
+                    {
+                        "name": "Forma",
+                        "subattributes": [
+                            "Forma"
+                        ]
+                    },
+                    {
+                        "name": "Pardesü",
+                        "subattributes": [
+                            "Pardesü"
+                        ]
+                    },
+                    {
+                        "name": "Tulum Salopet",
+                        "subattributes": [
+                            "Tulum Salopet"
+                        ]
+                    },
+                    {
+                        "name": "Tulum",
+                        "subattributes": [
+                            "Tulum"
+                        ]
+                    },
+                    {
+                        "name": "Süveter",
+                        "subattributes": [
+                            "Süveter"
+                        ]
+                    },
+                    {
+                        "name": "Mayo",
+                        "subattributes": [
+                            "Mayo"
+                        ]
+                    },
+                    {
+                        "name": "Body",
+                        "subattributes": [
+                            "Body"
+                        ]
+                    },
+                    {
+                        "name": "Kimono",
+                        "subattributes": [
+                            "Kimono"
+                        ]
+                    },
+                    {
+                        "name": "Bebek Takımları",
+                        "subattributes": [
+                            "Bebek Takımları"
+                        ]
+                    },
+                    {
+                        "name": "Fantezi Babydoll",
+                        "subattributes": [
+                            "Fantezi Babydoll"
+                        ]
+                    },
+                    {
+                        "name": "Fantezi Külot",
+                        "subattributes": [
+                            "Fantezi Külot"
+                        ]
+                    },
+                    {
+                        "name": "Fantezi Kombinezon",
+                        "subattributes": [
+                            "Fantezi Kombinezon"
+                        ]
+                    },
+                    {
+                        "name": "Fantezi Gecelik",
+                        "subattributes": [
+                            "Fantezi Gecelik"
+                        ]
+                    },
+                    {
+                        "name": "Fantezi String",
+                        "subattributes": [
+                            "Fantezi String"
+                        ]
+                    }
+                ]
+            },
+
+            "1" : {
                 "name": "Cinsiyet",
                 "attributes": [
                     {
@@ -63,7 +355,7 @@
                 ]
             },
 
-            "1": {
+            "2": {
                 "name": "Renk",
                 "attributes": [
                     {
@@ -201,7 +493,7 @@
                 ]
             },
 
-            "2": {
+            "3": {
                 "name": "Kol Tipi+Kol Boyu",
                 "attributes": [
                     {
@@ -381,7 +673,7 @@
                 ]
             },
 
-            "3": {
+            "4": {
                 "name": "Paça Tipi",
                 "attributes": [
                     {
@@ -509,7 +801,7 @@
                 ]
             },
 
-            "4": {
+            "5": {
                 "name": "Paça Boyu",
                 "attributes": [
                     {
@@ -533,7 +825,7 @@
                 ]
             },
 
-            "5": {
+            "6": {
                 "name": "Ürün Tipi",
                 "attributes": [
                     {
@@ -575,7 +867,7 @@
                 ]
             },
 
-            "6": {
+            "7": {
                 "name": "Cep",
                 "attributes": [
                     {
@@ -696,7 +988,7 @@
                 ]
             },
 
-            "7": {
+            "8": {
                 "name": "Bel",
                 "attributes": [
                     {
@@ -752,7 +1044,7 @@
                 ]
             },
 
-            "8": {
+            "9": {
                 "name": "Boy",
                 "attributes": [
                     {
@@ -833,7 +1125,7 @@
                 ]
             },
 
-            "9": {
+            "10": {
                 "name": "Siluet",
                 "attributes": [
                     {
@@ -1274,7 +1566,7 @@
                 ]
             },
 
-            "10": {
+            "11": {
                 "name": "Yaka Tipi",
                 "attributes": [
                     {
@@ -1659,7 +1951,7 @@
                 ]
             },
             
-            "11": {
+            "12": {
                 "name": "Cinsiyet",
                 "attributes": [
                     {
@@ -1695,7 +1987,7 @@
                 ]
             },
 
-            "12": {
+            "13": {
                 "name": "Stil",
                 "attributes": [
                     {
@@ -1856,7 +2148,7 @@
                 ]
             },
 
-            "13": {
+            "14": {
                 "name": "Koleksiyon",
                 "attributes": [
                     {
@@ -2037,7 +2329,7 @@
                 ]
             },
 
-            "14": {
+            "15": {
                 "name": "Kumaş Tipi",
                 "attributes": [
                     {
@@ -3158,7 +3450,7 @@
                 ]
             },
             
-            "15": {
+            "16": {
                 "name": "Desen",
                 "attributes": [
                     {
@@ -3692,7 +3984,7 @@
                 ]
             },
             
-            "16": {
+            "17": {
                 "name": "Kapama Şekli",
                 "attributes": [
                     {
@@ -3804,7 +4096,7 @@
                 ]
             },
 
-            "17": {
+            "18": {
                 "name": "Astar Durumu",
                 "attributes": [
                     {
@@ -3822,7 +4114,7 @@
                 ]
             },
 
-            "18": {
+            "19": {
                 "name": "Ek Özellik",
                 "attributes": [
                     {
@@ -4206,7 +4498,7 @@
                 ]
             },
 
-            "19": {
+            "20": {
                 "name": "Okula Dönüş",
                 "attributes": [
                     {
